@@ -1,5 +1,7 @@
-# Repo for Introduction to Python: Part II (Section 2)
-## 10–11 August 2022
+# Coding Outreach for Data Education (CODE) Workshop
+
+# Repo for Introduction to Python 2 (Section 2)
+## 10–11 August 2022, 12:30pm–3pm CDT
 ## Zoom (meeting info sent by email)
 
 Welcome!<br>
